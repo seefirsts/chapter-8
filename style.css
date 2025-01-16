@@ -1,0 +1,34 @@
+body{background-color: black;
+color: white;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 0.9em;
+padding: 0;
+margin: 0;
+}
+/* headlines */
+h1, h2,h3 {
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
+
+h1{
+    color: #43743D;
+    font-size: 1.7em;
+}
+h2{
+    color: #000000;
+    font-size: 1.7em;
+}
+h3{
+    color: #889a9c;
+    font-size: 1.7em;
+}
+p{color: rgb(114, 175, 235);}
+#edges{
+    background-color: #FFFFFF;
+    color: black;
+    margin: 25px;
+}
+p {
+    padding-bottom: 5px;
+}
